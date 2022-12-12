@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Project 1 Title](/tidyverse_wrangling_and_plotting)
+[Project 1 Title](/tidyverse_wrangling_and_plotting.R)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
